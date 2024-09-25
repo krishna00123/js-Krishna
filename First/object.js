@@ -15,7 +15,7 @@ delete x.Age;
 x.Age = 11
 console.log(x.Age);
 console.log(person.Name);
-
+console.log(person.Name);
 console.log(x.Hobbies.Musis);
 console.log(x.Hobbies.Game);
 
